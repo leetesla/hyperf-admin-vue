@@ -1,7 +1,7 @@
 {
   "name": "Hyperf-admin-vue",
   "version": "1.2.2",
-  "description": "Hyperf-admin-vue基于vue、element-ui构建开发，实现Hyperf-admin-vue后台管理前端功能，提供一套更优的前端解决方案。",
+  "description": "Hyperf-admin-vue基于vue、element-ui构建开发.",
   "author": "",
   "private": true,
   "scripts": {

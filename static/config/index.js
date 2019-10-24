@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {};
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://120.79.148.142:8080/renren-fast';
+  window.SITE_CONFIG['baseUrl'] = 'http://120.79.148.142:8080/hy-admin';
 
   // cdn地址 = 域名 + 版本号
   window.SITE_CONFIG['domain']  = './'; // 域名

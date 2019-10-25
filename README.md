@@ -1,5 +1,21 @@
 ## Hyperf-Admin-UI
 
+# 介绍
+
+Hyperf-Admin 基于Hyperf v1.1 开发的前后分离管理后台
+
+演示地址：[http://mrw.so/4I6mCR](http://mrw.so/4I6mCR) (账号密码：admin/admin)
+
+## 功能介绍
+
+- 管理员管理
+- 角色管理
+- 菜单管理
+
+![输入图片说明](https://raw.githubusercontent.com/penghcheng/hyperf-admin/master/screenshot/login.png "01.png")
+![输入图片说明](https://raw.githubusercontent.com/penghcheng/hyperf-admin/master/screenshot/user.png "01.png")
+![输入图片说明](https://raw.githubusercontent.com/penghcheng/hyperf-admin/master/screenshot/echarts.png "01.png")
+
 
 #### 常见问题
     开发时，如何连接后台项目api接口？
